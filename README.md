@@ -1,19 +1,9 @@
-# Welcome to My Simple Site
+# Welcome My Playground
 
-## About This Site: 
-Website merupakan tugas dari tahap phase-0 Hacktiv8 yang telah dikerjakan sebelumnya dan akan disempurnakan lagi.
-
-## Used Tags & Syntaxes:
-* text-transform
-* margin
-* border
-* background-image
-* background-position
-* background-attachment
-* -webkit-linear-gradient
-* etc
+## Our Great Plan: 
+Halaman ini akan digunakan untuk membuat kontribusi yang berharga di masa depan. Masih banyak kekurangan disana sini. Akan diperbaiki sesuai dengan Alter ego mrhandoko.
 
 ## About Me 
-Saya Bambang Handoko, ingin belajar mencintai dunia coding & love it like second wife. LOL!!
+Saya Bambang Handoko, ingin belajar cara mencintai dunia coding & love it like second wife. LOL!!
 
-![Header](assets/mac-coffee.jpg)
+![Header](assets/rocket.jpg)
